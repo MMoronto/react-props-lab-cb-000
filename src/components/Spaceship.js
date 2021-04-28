@@ -1,1 +1,5 @@
-// Code The Spaceship Component Here
+class SpaceShip extends React.Component {
+  render() {
+    
+  }
+}
